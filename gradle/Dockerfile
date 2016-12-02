@@ -6,7 +6,6 @@ RUN apk update && apk --no-cache add wget bash
 ENV GRADLE_VERSION=3.2
 ENV GRADLE_HOME /usr/local/gradle
 ENV PATH $PATH:$GRADLE_HOME/bin
-ENV GRADLE_USER_HOME /gradle
 
 WORKDIR /usr/local
 
