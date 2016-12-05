@@ -1,4 +1,4 @@
-FROM anapsix/alpine-java:jdk8
+FROM anapsix/alpine-java:jdk7
 MAINTAINER Juliano Alves <von.juliano@gmail.com>
 
 ENV GRADLE_VERSION=3.2
