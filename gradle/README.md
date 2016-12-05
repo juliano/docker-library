@@ -1,4 +1,4 @@
-## Gradle Docker Container based on Alpine Linux
+## Minified Gradle Docker Container based on Alpine Linux
 
 [![Gradle Image][GradleImage]][GradleWebsite]
 
