@@ -66,7 +66,7 @@ docker-compose run gradle clean test war
 
 [GradleImage]: https://gradle.org/wp-content/uploads/2016/07/Gradle.svg
 [GradleWebsite]: https://gradle.org/
-[MicrobadgeLayers]: https://images.microbadger.com/badges/image/juliano/gradle:3.2-jdk7.svg
-[MicrobadgeVersion]: https://images.microbadger.com/badges/version/juliano/gradle:3.2-jdk7.svg
+[MicrobadgeLayers]: https://images.microbadger.com/badges/image/juliano/gradle:3.3-jdk7.svg
+[MicrobadgeVersion]: https://images.microbadger.com/badges/version/juliano/gradle:3.3-jdk7.svg
 [ComposeNamedVolumes]: https://docs.docker.com/compose/compose-file/#/volumes-volumedriver
 
